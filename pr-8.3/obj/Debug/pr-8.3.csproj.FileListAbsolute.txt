@@ -1,0 +1,8 @@
+C:\Users\Denis\Desktop\pr-8.3\bin\Debug\pr-8.3.exe.config
+C:\Users\Denis\Desktop\pr-8.3\bin\Debug\pr-8.3.exe
+C:\Users\Denis\Desktop\pr-8.3\bin\Debug\pr-8.3.pdb
+C:\Users\Denis\Desktop\pr-8.3\obj\Debug\pr-8.3.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\pr-8.3\obj\Debug\pr-8.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denis\Desktop\pr-8.3\obj\Debug\pr-8.3.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\pr-8.3\obj\Debug\pr-8.3.exe
+C:\Users\Denis\Desktop\pr-8.3\obj\Debug\pr-8.3.pdb
